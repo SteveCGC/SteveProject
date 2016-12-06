@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="height_button">48dp</dimen>
+
+    <!--Metrics and key lines from http://www.google.com/design/spec/layout/metrics-keylines.html-->
+
+    <dimen name="screen_edge_margin">16dp</dimen>
+    <dimen name="content_left_margin_from_screen">72dp</dimen>
+
+    <dimen name="space_between_content_areas">8dp</dimen>
+
+    <dimen name="navigation_drawer_right_margin">56dp</dimen>
+    <dimen name="navigation_drawer_item_height">48dp</dimen>
+
+    <dimen name="touch_target_size">48dp</dimen>
+    <dimen name="touch_target_avatar_padding">8dp</dimen>
+    <dimen name="touch_target_icon_padding">12dp</dimen>
+    <dimen name="touch_target_button_margin">6dp</dimen>
+
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="tool_bar_height">56dp</dimen>
+    <dimen name="subtitle_height">48dp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+
+    <!--card key lines from https://www.google.com/design/spec/components/cards.html-->
+
+    <dimen name="primary_title_top_padding">24dp</dimen>
+    <dimen name="primary_title_bottom_padding">16dp</dimen>
+    <dimen name="action_button_row_padding">8dp</dimen>
+    <dimen name="supporting_text_top_padding">16dp</dimen>
+    <dimen name="supporting_text_bottom_padding">24dp</dimen>
+
+    <dimen name="primary_title">24sp</dimen>
+    <dimen name="sub_title">14sp</dimen>
+    <dimen name="supporting_text">14sp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+
+    <dimen name="title_bar_height">40dp</dimen>
+
+    <!-- 字体-->
+    <dimen name="font_huge">18sp</dimen>
+    <dimen name="font_large">16sp</dimen>
+    <dimen name="font_middle">15sp</dimen>
+    <dimen name="font_normal">13sp</dimen>
+    <dimen name="font_small_l">12sp</dimen>
+    <dimen name="font_small">11sp</dimen>
+    <dimen name="font_tiny">5sp</dimen>
+    <dimen name="font_micro">4sp</dimen>
+
+
+    <!-- 字体-->
+    <dimen name="state_bar_text">15sp</dimen>
+    <dimen name="search_text">13sp</dimen>
+    <dimen name="title_bar_main_title">20sp</dimen>
+    <dimen name="title_bar_sub_title">14sp</dimen>
+
+    <!-- 间隔-->
+    <dimen name="spacing_huge">20dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_normal">13dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_little">8dp</dimen>
+    <dimen name="spacing_small">5dp</dimen>
+    <dimen name="spacing_tiny">2dp</dimen>
+    <dimen name="spacing_micro">1px</dimen>
+    <dimen name="spacing_bigger">28dp</dimen>
+    <dimen name="spacing_standard">24dp</dimen>
+    <dimen name="spacing_big">20dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+
+    <integer name="room_state_column_num">2</integer>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="theme_primary">#FF5722</color>
+    <color name="theme_primary_dark">#E64A19</color>
+    <color name="theme_color_accent">#FF5722</color>
+
+    <color name="gray">#e3e3e3</color>
+    <color name="gray_e">#A9A9A9</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="light_blue">#03a9f4</color>
+    <color name="teal">#009688</color>
+
+    <color name="line">#d8d8d8</color>
+
+    <!--green-->
+    <color name="colorGreenPrimary">#4CAF50</color>
+    <color name="colorGreenPrimaryDark">#388E3C</color>
+    <color name="colorGreenAccent">#FF4081</color>
+    <color name="colorGreenPrimaryCenter">#104813</color>
+
+    <color name="divider_background_light">#1A000000</color>
+    <color name="divider_background_dark">#12FFFFFF</color>
+
+    <!--basic colors  -->
+    <color name="black">#ff000000</color>
+    <color name="black_desc">#ad000000</color>
+    <color name="gray_increse">#7c7c7c</color>
+    <color name="green">#ff24C69D</color>
+    <color name="orange">#fffd894a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_orange">#E1B77A</color>
+    <color name="deep_orange">#BD832B</color>
+    <color name="window_bg">#F0D3A9</color>
+    <color name="gray_bg">#EEEEEE</color>
+    <color name="deep_gray">#A5A5A5</color>
+    <color name="purple">#97B9E4</color>
+    <color name="slight_black">#4F4F4F</color>
+    <color name="sky_blue">#97B9E4</color>
+
+    <color name="default_sub_text">#999999</color>
+    <color name="default_main_text">#686868</color>
+
+    <color name="bg_green">@color/green</color>
+    <color name="bg_window">@color/window_bg</color>
+    <color name="bg_white">@color/white</color>
+    <color name="bg_dark_white">#efffffff</color>
+    <color name="bg_snow_white">#fffafafa</color>
+    <color name="bg_click_shade">#4421425d</color>
+    <color name="bg_coupon_red">#F57074</color>
+    <color name="bg_black">#ff000000</color>
+    <color name="bg_collocation_filter_tag">#6624C69D</color>
+    <color name="bg_photo_overlay">#b03C3C3C</color>
+</resources>
